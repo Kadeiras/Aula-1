@@ -1,0 +1,35 @@
+#limpar1 {
+    color: black;
+    background-color: white;
+    border-radius: 10px;
+}
+
+#btn {
+    color: black;
+    background-color: white;
+    border-radius: 10px;
+}
+
+body {
+    background-color: black;
+}
+
+#valor {
+    color: white;
+}
+
+#valor1 {
+	border-radius: 10px;
+}
+
+#valor2 {
+	border-radius: 10px;
+}
+
+#valor3 {
+	border-radius: 10px;
+}
+
+#valor4 {
+	border-radius: 10px;
+}
